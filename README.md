@@ -6,7 +6,6 @@ modder's worsrt nightmare
 i dare u to play this legitmently 
 or dont
 
-# features
 
 
 # what do with this mod 
