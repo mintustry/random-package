@@ -1,6 +1,8 @@
 {
   "name": "random package",
   "author": "MintustryC",
+  "displayName": "The Random packaging"
   "description": "disaster, otherwise suffering",
   "version": 1.0
+  "minGameVersion": 139,
 }
